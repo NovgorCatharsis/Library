@@ -1,0 +1,14 @@
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\bin\Debug\net8.0\Library management system.exe
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\bin\Debug\net8.0\Library management system.deps.json
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\bin\Debug\net8.0\Library management system.runtimeconfig.json
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\bin\Debug\net8.0\Library management system.dll
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\bin\Debug\net8.0\Library management system.pdb
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\Library management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\Library management system.AssemblyInfoInputs.cache
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\Library management system.AssemblyInfo.cs
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\Library management system.csproj.CoreCompileInputs.cache
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\Library management system.dll
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\refint\Library management system.dll
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\Library management system.pdb
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\Library management system.genruntimeconfig.cache
+C:\Users\jegor\Desktop\Code Projects\C#\Library management system\obj\Debug\net8.0\ref\Library management system.dll
